@@ -1,5 +1,3 @@
-# AI-Expense-Analytics-Dashboard-
-AI-powered expense tracking dashboard with automated expense categorization, spending analytics, visualization, and expense prediction using Machine Learning.
 # AI Expense Analytics Dashboard
 
 AI Expense Analytics Dashboard is a machine learning-based finance management application designed to help users track expenses, analyze spending patterns, and predict future expenses.
