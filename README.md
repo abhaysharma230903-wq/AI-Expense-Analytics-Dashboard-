@@ -20,11 +20,9 @@ The application combines expense tracking features with AI-powered analytics to 
 Frontend:
 - HTML
 - CSS
-- JavaScript / Chart.js
 
 Backend:
 - Python
-- Flask
 
 Database:
 - SQL
